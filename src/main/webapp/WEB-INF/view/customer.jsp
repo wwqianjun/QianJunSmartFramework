@@ -37,6 +37,6 @@
     </c:forEach>
   </table>
 
-<c:if test="result==bool">alert("success")</c:if>
+<c:if test="result==boolean">alert("success")</c:if>
 </body>
 </html>
